@@ -1,8 +1,6 @@
 # Future Resume
 
-<p align="left">
-  <img src="./image.jpg" width="200">
-</p>
+![profile_image](./image.jpg)
 
 > * 김민서(KIM MINSEO)  
 > * 2003년 10월 3일 출생  
@@ -10,7 +8,7 @@
 >     * 2023.03 - 현재  
 > * Email : miseno1003@gmail.com  
 > * Phone : 010 8782 9674  
-> * Github : [https://github.com/miseno1003](https://github.com/miseno1003)
+> * Github : <https://github.com/miseno1003>
 
 
 ## 자기 소개
@@ -50,6 +48,7 @@
 
 - 인턴
     - HD현대로보틱스 지능화소프트웨어개발팀 인턴 (2025.06-2025.12)
+    - SNU DYROS LAB 인턴(2026.06-2026.12)
 
 - 자격증
     - ADsP
