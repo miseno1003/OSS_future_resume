@@ -1,16 +1,16 @@
 # Future Resume
 
 <p align="left">
-  <img src="https://github.com/miseno1003/Future_Resume/blob/main/image.jpg" width="200">
+  <img src="./image.jpg" width="200">
 </p>
 
-* 김민서(KIM MINSEO)  
-* 2003년 10월 3일 출생  
-* 광운대학교 인공지능융합대학 정보융합학부 학사과정  
-  * 2023.03 - 현재  
-* Email | miseno1003@gmail.com  
-* Phone | 010 8782 9674  
-* Github | [https://github.com/miseno1003](https://github.com/miseno1003)
+> * 김민서(KIM MINSEO)  
+> * 2003년 10월 3일 출생  
+> * 광운대학교 인공지능융합대학 정보융합학부 학사과정  
+>     * 2023.03 - 현재  
+> * Email | miseno1003@gmail.com  
+> * Phone | 010 8782 9674  
+> * Github | [https://github.com/miseno1003](https://github.com/miseno1003)
 
 
 ## 자기 소개
